@@ -1,0 +1,3 @@
+cd ~/planer
+python main.py sync
+return 1
